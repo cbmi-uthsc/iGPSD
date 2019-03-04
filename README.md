@@ -1,2 +1,2 @@
 # iGPSD
-Project 8: Integrating genomics and high-frequency physiologic data for sepsis detection
+Integrating genomics and physiologic data (high-frequency) for sepsis detection
