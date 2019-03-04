@@ -7,5 +7,7 @@ Combining genomics data with physiologic read-outs may be effective in creating 
 * physiologic data from eICU [https://eicu-crd.mit.edu/]
 
 ## Maintainer
+* DR.Akram Mohammed [akrammohd@gmail.com]
+* Prof.Rishikesan Kamaleswaran [Rishikesan.K@gmail.com] 
 
 ## License
