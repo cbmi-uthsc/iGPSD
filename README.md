@@ -11,3 +11,4 @@ Combining genomics data with physiologic read-outs may be effective in creating 
 * Prof.Rishikesan Kamaleswaran [Rishikesan.K@gmail.com] 
 
 ## License
+This software has been released under the [GNU General Public License v3.0](LICENSE.md)
