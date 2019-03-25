@@ -5,5 +5,5 @@
 Using a virtual environment is preferable.
 
 
-command: 
+Run command: 
 * $ pip install -r requirements.txt
