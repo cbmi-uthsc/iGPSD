@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="Supplement/iGPSD(1)_Logo.png">
+	<img src="Supplement/Main_Logo(edited).png">
 </div>
 
 ---
