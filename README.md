@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="Supplement/Main_Logo(edited).png">
+	<img src="Supplement/Main_Logo (edited).png">
 </div>
 
 ---
